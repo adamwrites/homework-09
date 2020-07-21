@@ -1,6 +1,6 @@
-# Cool Project
+# Good ReadME Generator 
     ## Description 
-    This is a super chill and fresh project
+    Creating a CLI application that generates a good readme for users
 
     ## Table of contents
   - [Description](#Description)
@@ -13,17 +13,17 @@
   - [GitHub Info](#GitHub)
 
   ## Installation
-  jest
+  run npm install. Make sure all dependencies are present (Axios/Inquirier/FS)
 
   ## Usage
-  use the command line
+  Run index.js in the terminal and answer the corresponding questions
 
   ## Contributors
   adamwrites
 
   ## Test
-  jest for real
+  jest tests in the future
 
   ## Repository
-  coolprojecthello
+  Homework-09
   
