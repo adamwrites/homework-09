@@ -1,4 +1,4 @@
-# Good ReadME Generator 
+# Good ReadME Generator
     ## Description 
     Creating a CLI application that generates a good readme for users
 
@@ -22,8 +22,8 @@
   adamwrites
 
   ## Test
-  jest tests in the future
+  jest tests
 
   ## Repository
-  Homework-09
+  homework-09
   
